@@ -18,7 +18,6 @@ module.exports = {
         sub = require('./lib/subs/'+sub);
       }
     }
-    console.log(sub);
     return this.factory.build(this.super, sub);    
   }
 
