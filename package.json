@@ -4,7 +4,7 @@
   , "private": true
   , "dependencies": {
       "redis" : ">=0.6.7",
-      "hiredis" : ">=0",
+//      "hiredis" : ">=0",
       "shelby-config" : "git+ssh://git@github.com:ShelbyTV/shelby-config.git",
       "factory-node" : "git+ssh://git@github.com:ShelbyTV/factory-node.git"
   }
